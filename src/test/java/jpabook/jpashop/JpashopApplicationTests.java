@@ -8,6 +8,11 @@ class JpashopApplicationTests {
 
 	@Test
 	void contextLoads() {
+		var a = "asdasd";
+		System.out.println("a = " + a.getClass().getTypeName());
+		System.out.println(a);
+		String asd = "asd";
 	}
+
 
 }
